@@ -22,7 +22,6 @@ class Dog
   end 
   
   def self.clear_all
-    #Array.Clear(@@all, 0, @@all.length)
     @@all = []
   end
 end
